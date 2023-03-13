@@ -1,0 +1,28 @@
+body{
+    background-color: darkslategray;
+    color: white;
+}
+
+#yes{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+#tarea1{
+    text-align: center;
+    background-color: rgb(206, 99, 99);
+    width: 200px;
+    height: 50px;
+   border-radius: 10px;
+   box-shadow:  rgb(176, 78, 78) 4px 5px;
+}
+#incompleto{
+    text-align: center;
+    background-color: rgb(168, 168, 168);
+    width: 200px;
+    height: 50px;
+   border-radius: 10px;
+}
+
